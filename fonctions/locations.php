@@ -1,0 +1,1 @@
+<!--  un titre, une description, une ou plusieurs photos, un nombre de places, une adresse prix à la nuitée par personne/ disponibilité / localisation-->

@@ -1,0 +1,1 @@
+<!-- vue d'une location -->

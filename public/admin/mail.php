@@ -1,0 +1,1 @@
+<!-- Envoi d’un mail de confirmation de la réservation au client et à l’hôte -->
