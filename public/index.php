@@ -2,6 +2,7 @@
 <!-- Présentation du site -->
 
 
+
 <!-- PAGE RECHERCHE -->
 <!-- liste des biens/chambres à louer -->
 <!-- utiliser le filtre de recherche -->
